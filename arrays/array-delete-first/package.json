@@ -1,0 +1,17 @@
+{
+  "name": "array-delete-first",
+  "version": "1.0.0",
+	"description": "Delete the first item in an Array",
+	"type": "module",
+	"engines": {
+		"node": ">=12"
+	},
+  "scripts": {
+    "test": "node --experimental-modules array-delete-first.test.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "tape": "^4.9.1"
+  }
+}
